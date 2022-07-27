@@ -6,9 +6,9 @@
               "title": "C"
           },
           "schemes": [
-              "http"
+              "https"
           ],
-          "host": "localhost",
+          "host": "generator.swagger.io",
           "basePath": "/",
           "produces": [
               "application/json"
